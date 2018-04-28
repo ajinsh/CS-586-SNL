@@ -28,13 +28,13 @@ Find interesting insights for the dataset loaded such as
 - Give the episode information which run for the longest time.
 - Top 3 cast members who are still working in the show.
 - Which episode had huge ratings ?
-- Which are the episodes in which Coldplay artist performed ?
+- Which are the episodes in which _Coldplay_ artist performed ?
 - List cast members who have atleast 20 episodes.
 - Top 10 actors of SNL
 - Worst 10 actors of SNL
 - What are the average ratings per season?
 - Give the list of top 3 impressions performed.
-- List 10 characters played by the actor _ Kristen Wig _.
+- List 10 characters played by the actor _Kristen Wig_.
 - What is the tenure of an actor on the show ?
 - List all musical performance for the season no. 28.
 - Which episodes show advertisement of "HBO First Look".
